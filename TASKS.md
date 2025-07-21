@@ -136,4 +136,4 @@
 *下次檢查: 每5分鐘自動掃描*
  - [ ] **POWER METER MODBUS 模擬器** | 截止: 今天 | 技術: Python | 描述: 將現有的POWER METER MODBUS 改成RTU MODE | 時間: 2小時
  - [ ] **自動網站爬蟲系統** | 截止: 今天 | 技術: Python | 描述: 繼續將網路爬蟲程式enterprise-web-crawler完善 | 時間: 2小時
- 
+ - [ ] **自動英文對話練習系統** | 截止: 今天 | 技術: Python | 描述: 試做一個能自動對話與英語聽力練習的系統 | 時間: 8小時
