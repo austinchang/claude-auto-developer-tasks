@@ -1,0 +1,31 @@
+# Claude Auto Developer - Git Ignore
+
+# 臨時文件
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# 編輯器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系統文件
+*.log
+*.pid
+
+# 備份文件
+*.bak
+*.backup
+
+# 本地配置（不應同步）
+.env
+.env.local
+config.local.*
+
+# 任務處理中的臨時文件
+.processing/
+.temp_tasks/
