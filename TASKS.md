@@ -134,3 +134,4 @@
 *監控狀態: 🟢 正常運行*  
 *GitHub 同步: 🟢 已啟用*  
 *下次檢查: 每5分鐘自動掃描*
+ **POWER METER MODBUS 模擬器** | 截止: 今天 | 技術: Python | 描述: 將現有的POWER METER MODBUS 改成RTU MODE | 時間: 2小時
